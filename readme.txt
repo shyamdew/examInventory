@@ -4,7 +4,7 @@
 4> excute sql script
 5> use postman client and post the below request
 URL : http://localhost:8000/spring-rest/inventory/orders
-{  
+request Body : {  
    "customerId":"shyamdewk@gmail.com",
    "fmtUserId":1,
    "orders":[  
